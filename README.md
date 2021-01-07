@@ -57,12 +57,13 @@ Functionalities</h2>
 <h2 align="center">what i learned?</h2>
    
   <p><a href="https://spring.io/projects/spring-boot">Backend</a></p>
-   <p><a href="">Frontend web</a></p>   
-   <p><a href="">Frontend mobile</a></p>
+   <p><a href="https://pt-br.reactjs.org/">Frontend web(ReactJS)</a></p>   
+   <p><a href="#">Frontend mobile(React Native)</a></p>
    <p><a href="https://www.postman.com/">Postman</a></p>
    <p><a href="https://heroku.com">Heroku</a></p>
-   <p><a href="https://gitforwindows.org/">Git Bash</a></p>
    <p><a href="https://www.postgresql.org/">Postgree</a></p>
+   
+   <p><a href="https://gitforwindows.org/">Git Bash</a></p>
 
 
    ---
