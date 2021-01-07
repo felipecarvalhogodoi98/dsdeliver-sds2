@@ -1,6 +1,6 @@
 <h1 align="center">Semana DevSuperior - DSDeliver".</h1>
 
-<img src="https://github.com/felipecarvalhogodoi98/dsdeliver-sds2/blob/main/demo/Home.png" />
+<img src="https://github.com/felipecarvalhogodoi98/dsdeliver-sds2/blob/main/front-web/src/Navbar/logo.svg" />
 
 ---
 
@@ -20,14 +20,16 @@
 <h2 align="center">Previews</h2>
 
    <p align="center">
-     Developing...
+     <img src="https://github.com/felipecarvalhogodoi98/dsdeliver-sds2/blob/main/demo/Home.png" />
    </p>
 
 
 <h2 align="center">Layout</h2>
 
    <p align="center">
-     Developing...
+     <a href = "https://www.figma.com/file/LAIvIzyaJsSl2A9NMrnR7W/DSDeliver01">Figma</a>
+   The Layout was developed by <a href="#">Washington Soares</a>, 
+and you can access it on Figma, just click <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">here</a>!
    </p>
 
 ---
