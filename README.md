@@ -1,6 +1,6 @@
 <h1 align="center">Semana DevSuperior - DSDeliver".</h1>
 
-<img src="https://github.com/felipecarvalhogodoi98/dsdeliver-sds2/blob/main/front-web/src/Navbar/logo.svg" />
+<img src="https://github.com/felipecarvalhogodoi98/dsdeliver-sds2/blob/main/demo/Navbar.png" />
 
 ---
 
