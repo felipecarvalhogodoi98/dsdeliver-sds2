@@ -48,20 +48,6 @@ Functionalities</h2>
 
 ---
 
-<h2 align="center">how to use?</h2>
-
-   ```
-   - Clone the repository:
-   $ git clone https://github.com/felipecarvalhogodoi98/dsdeliver-sds2
-
-   - Enter the directory:
-   $ cd dsdeliver-sds2
-   
-   - Open in your browser:
-   http://localhost:8080/
-   ```
-
----
 
 <h2 align="center">what i learned?</h2>
    
