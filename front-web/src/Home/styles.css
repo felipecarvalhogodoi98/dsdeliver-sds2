@@ -18,7 +18,6 @@
     line-height: 58px;
     letter-spacing: -0.015em;
     color: var(--dark-color);
-    margin-bottom: 40px !important;
   }
   
   .home-subtitle {
@@ -27,7 +26,6 @@
     line-height: 33px;
     letter-spacing: -0.015em;
     color: var(--secondary-color);
-    margin-bottom: 30px;
   }
   
   .home-btn-order {
