@@ -1,4 +1,4 @@
-<h1 align="center">Semana DevSuperior - DSDeliver".</h1>
+<h1 align="center">Semana DevSuperior <br/> DSDeliver.</h1>
 
 <img src="https://github.com/felipecarvalhogodoi98/dsdeliver-sds2/blob/main/demo/Navbar.png" />
 
@@ -12,14 +12,15 @@
    </p>
 
    - ✅ "BACKEND" 
-   - 🔲 "FRONTEND WEB" 
+   - ✅ "FRONTEND WEB" 
    - 🔲 "FRONTEND MOBILE" 
 
 ---
 
 <h2 align="center">Previews</h2>
-
+   
    <p align="center">
+      <h2><a href="https://sds2-felipe-godoi.netlify.app/">My application</a></h2>
      <img src="https://github.com/felipecarvalhogodoi98/dsdeliver-sds2/blob/main/demo/Home.png" />
    </p>
 
@@ -38,7 +39,11 @@ and you can access it on Figma, just click <a href="https://www.figma.com/file/X
 Functionalities</h2>
 
    <p align="center">
-     Developing...
+      - Home
+      - Select products
+      - Select location
+      - Make a order
+      
    </p>
 
 ---
@@ -66,6 +71,7 @@ Functionalities</h2>
    <p><a href="https://www.postman.com/">Postman</a></p>
    <p><a href="https://heroku.com">Heroku</a></p>
    <p><a href="https://www.postgresql.org/">Postgree</a></p>
+   <p><a href="https://www.netlify.com/">Netlify</a></p>
    
    <p><a href="https://gitforwindows.org/">Git Bash</a></p>
 
