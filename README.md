@@ -7,21 +7,26 @@
 <h2 align="center">About</h2>
    
    <p align="center">
-      The Happy project, develop in the week SEMANA DEVSUPERIOR, of <a href="https://devsuperior.com.br">DevSuperior</a>, daytime 4 to 10 of january.<br>    
+      The DS Delivery project, develop in the week SEMANA DEVSUPERIOR, of <a href="https://devsuperior.com.br">DevSuperior</a>, daytime 4 to 10 of january.<br>    
       This project goes through the whole process from conception, coding, and publishing in the cloud.<br>
+      It is done from the backend to the WEB and MOBLIE frontend
    </p>
 
    - ✅ "BACKEND" 
    - ✅ "FRONTEND WEB" 
-   - 🔲 "FRONTEND MOBILE" 
+   - ✅ "FRONTEND MOBILE" 
 
 ---
 
 <h2 align="center">Previews</h2>
    
    <p align="center">
-      <h2><a href="https://sds2-felipe-godoi.netlify.app/">My application</a></h2>
+      <h2><a href="https://sds2-felipe-godoi.netlify.app/">APPLICATION WEB</a></h2>
      <img src="https://github.com/felipecarvalhogodoi98/dsdeliver-sds2/blob/main/demo/Home.png" />
+   </p>
+   <p align="center">
+      <h2>MOBILE</h2>
+     <img src="https://github.com/felipecarvalhogodoi98/dsdeliver-sds2/blob/main/demo/App.png" />
    </p>
 
 
@@ -38,12 +43,17 @@ and you can access it on Figma, just click <a href="https://www.figma.com/file/X
 <h2 align="center">
 Functionalities</h2>
 
-   <p align="center">
+   <p align="center"> <strong>WEB</strong>
       - Home
       - Select products
       - Select location
       - Make a order
-      
+   </p>
+   <p align="center"> <strong>MOBILE</strong>
+      - Home
+      - View/Select orders
+      - Start navigation
+      - Confirm delivery
    </p>
 
 ---
@@ -51,9 +61,9 @@ Functionalities</h2>
 
 <h2 align="center">what i learned?</h2>
    
-  <p><a href="https://spring.io/projects/spring-boot">Backend</a></p>
+  <p><a href="https://spring.io/projects/spring-boot">Backend(Spring)</a></p>
    <p><a href="https://pt-br.reactjs.org/">Frontend web(ReactJS)</a></p>   
-   <p><a href="#">Frontend mobile(React Native)</a></p>
+   <p><a href="https://reactnative.dev/">Frontend mobile(React Native)</a></p>
    <p><a href="https://www.postman.com/">Postman</a></p>
    <p><a href="https://heroku.com">Heroku</a></p>
    <p><a href="https://www.postgresql.org/">Postgree</a></p>
