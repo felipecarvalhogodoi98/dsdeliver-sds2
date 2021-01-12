@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
   },
   text: {
     fontWeight: 'bold',
-    fontFamily: ' OpenSans_700Bold',
+    fontFamily: 'OpenSans_700Bold',
     fontSize: 18,
     lineHeight: 25,
     letterSpacing: -0.24,
