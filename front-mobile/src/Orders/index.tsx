@@ -39,13 +39,17 @@ export default function Orders() {
         <Header/>
         <ScrollView style={styles.container}>
             {isLoading ? (
-                <Text style={styles.textLoading}>Carregando Pedidos...</Text>
+                <Text style={styles.textLoading}>CARREGANDO PEDIDOS...</Text>
             ) : (
-                orders.map(order => (
-                    <TouchableWithoutFeedback key={order.id} onPress={() => handleOnPress(order)}>
-                        <OrderCard order={order}/>
-                    </TouchableWithoutFeedback>
-                ))
+                orders.length ? (
+                    orders.map(order => (
+                        <TouchableWithoutFeedback key={order.id} onPress={() => handleOnPress(order)}>
+                            <OrderCard order={order}/>
+                        </TouchableWithoutFeedback>
+                    ))
+                ) : (<Text style={styles.textLoading}>NAO HÁ PEDIDOS</Text>)
+
+                
             )}
         </ScrollView>
         </>
